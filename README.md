@@ -17,7 +17,7 @@ This repository contains my Python learning journey and solutions completed as p
 ## Day 10 - User Input in Python
 
 ### Concepts Covered
-- Taking user input using `input() function`
+- Taking user input using `input()` function
 - Using prompts with `input()`
 - Storing user input in variables
 - Understanding that `input()` returns a string by default
