@@ -38,3 +38,43 @@ Enter second number: 20
 30
 ```
 
+Day 10 of #100DaysOfCode 🚀
+
+# Day 11 - Strings in Python
+
+## Concepts Learned
+- Introduction to Strings
+- String Concatenation using `+`
+- Using commas in `print()`
+- Including quotes inside strings
+- Multiline Strings
+- String Indexing
+- Looping through Strings using `for` loop
+
+## Output
+```text
+Hello, Urja Singh
+Hello, Urja Singh
+
+Hi, I am a "good girl"
+Hi, I am a "good girl"
+Hi, I am a "good girl"
+
+Hi,
+I am Urja,
+Nice meeting you
+
+Accessing the string character using indexing: U
+
+Lets print using a loop
+U
+r
+j
+a
+```
+
+## Key Takeaway
+Strings are sequences of characters that can be accessed using indexing and traversed using loops.
+
+---
+Day 11 of #100DaysOfCode 🚀
