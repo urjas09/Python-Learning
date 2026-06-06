@@ -10,7 +10,8 @@ This repository contains my Python learning journey and solutions completed as p
 |-----|--------|------|
 | Day 01 | Hello World | `hello_world.py` |
 | Day 10 | User Input in Python | `user_input.py` |
-| Day 11 | Coming Soon | - |
+| Day 11 | Strings in Python | `strings.py` |
+| Day 12 | String Slicing | `string_slicing.py` |
 
 ---
 
