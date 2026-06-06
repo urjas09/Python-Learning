@@ -78,3 +78,34 @@ Strings are sequences of characters that can be accessed using indexing and trav
 
 ---
 Day 11 of #100DaysOfCode 🚀
+
+# Day 12 - String Slicing in Python
+
+## Concepts Learned
+- Finding the length of a string using `len()`
+- String Slicing using `[start:end]`
+- Negative Slicing
+- Understanding why some slices return an empty string
+
+## Output
+```text
+Length of the string is: 5
+
+Substring from index 0 to 4: Mang
+Substring from index 1 to 4: ang
+Substring from index 0 to 5 (omitting start_index): Mango
+
+Substring from index 0 to -3: Ma
+Substring upto index -3 (omitting start_index): Ma
+Substring from index -1 to index -3 to end:
+Substring from index -3 to -1: ng
+```
+
+## File
+- `string_slicing.py`
+
+## Key Takeaway
+String slicing allows us to extract specific parts of a string using positive and negative indices. The start index is inclusive, while the end index is exclusive.
+
+---
+Day 12 of #100DaysOfCode 🚀
