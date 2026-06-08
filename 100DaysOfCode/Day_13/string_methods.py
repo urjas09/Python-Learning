@@ -14,3 +14,9 @@ print(c.rstrip("!")) #we cannot change the original string but we can create a c
 #4. `replace()`: Replaces a specified phrase with another specified phrase. It returns a new string with the replacements.
 print(a.replace("Urja", "Kajal")) #we cannot change the original string but we can create a copy of the string with the modified value and whenever we use the methods it gives us a new string where all the occurrences of "Urja" will be replaced with "Kajal".
 print(a) #the original string remains unchanged.
+#5 `split()`: Splits a string into a list where each word is a list item. The split is done at the specified separator (default is any whitespace).
+d= "Urja Singh"
+print(d.split(" "))
+#6. `capitalize()`: Converts the first character of the string to uppercase and the rest to lowercase.There is no effect if the first letter is already capital or the other letters except first are already small.
+blog_title = "python programming"
+print(blog_title.capitalize()) 
