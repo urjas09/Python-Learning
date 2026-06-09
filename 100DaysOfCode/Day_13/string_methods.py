@@ -20,3 +20,9 @@ print(d.split(" "))
 #6. `capitalize()`: Converts the first character of the string to uppercase and the rest to lowercase.There is no effect if the first letter is already capital or the other letters except first are already small.
 blog_title = "python programming"
 print(blog_title.capitalize()) 
+#7. center(width, fillchar): Returns a centered string of a specified width. The fillchar is the character used to fill the remaining space on either side of the string. The default fillchar is a space.
+str1 = "Welcome to the Console!!!"
+print(str1.center(50))#left spaces + original string + right spaces #we cannot change the original string but we can create a copy of the string with the modified value and whenever we use the methods it gives us a new string where the original string is centered within a field of a specified width, and the remaining space is filled with spaces (the default fill character).
+print(str1.center(50, "*")) #we cannot change the original string but we can create a copy of the string with the modified value and whenever we use the methods it gives us a new string where the original string is centered within a field of a specified width, and the remaining space is filled with a specified character (in this case, "*").
+print(len(str1.center(50)))
+print(len(str1))
