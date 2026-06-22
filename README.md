@@ -19,6 +19,8 @@ This repository contains my Python learning journey and solutions completed as p
 | Day 17 | For Loops and range() | `for_loop.py` |
 | Day 18 | While Loops | `while_loop.py` |
 | Day 19 | Break and Continue Statements | `break_continue.py` |
+| Day 20 | Functions in Python | `functions.py` |
+| Day 21 | Function Arguments and Return Statements | `FunctionArguments.py` |
 ---
 
 ## Day 10 - User Input in Python
@@ -638,3 +640,89 @@ Day 18 of #100DaysOfCode 🚀
 ---
 
 Day 19 of #100DaysOfCode 🚀
+
+# Day 20 - Functions in Python
+
+## Concepts Learned
+
+- Built-in functions
+- User-defined functions
+- Function definition using `def`
+- Parameters and arguments
+- Function calls
+- `pass` statement
+
+---
+
+## Topics Covered
+
+### Functions
+- Reusable blocks of code used to perform specific tasks.
+
+### User-defined Functions
+- Created using the `def` keyword.
+- Can accept parameters and be called multiple times.
+
+### Pass Statement
+- Placeholder used when a function has no implementation yet.
+
+---
+
+## File
+
+- `functions.py`
+
+---
+
+## Key Takeaways
+
+- Functions improve code reusability and readability.
+- Parameters make functions flexible.
+- `pass` allows creating empty functions without errors.
+
+---
+
+Day 20 of #100DaysOfCode 🚀
+
+# Day 21 - Function Arguments in Python
+
+## Concepts Learned
+
+- Default Arguments
+- Keyword Arguments
+- Required Arguments
+- Return Statement
+- Variable Length Arguments (`*args`)
+- Keyword Variable Length Arguments (`**kwargs`)
+
+---
+
+## Topics Covered
+
+### Function Arguments
+- Different ways to pass values to functions.
+
+### Return Statement
+- Used to send a value back to the calling function.
+
+### Variable Length Arguments
+- `*args` allows multiple positional arguments.
+- `**kwargs` allows multiple keyword arguments.
+
+---
+
+## File
+
+- `FunctionArguments.py`
+
+---
+
+## Key Takeaways
+
+- Functions can accept arguments in different ways.
+- `return` makes functions reusable and powerful.
+- `*args` and `**kwargs` provide flexibility when the number of arguments is unknown.
+
+---
+
+Day 21 of #100DaysOfCode 🚀
